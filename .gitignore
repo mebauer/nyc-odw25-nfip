@@ -1,0 +1,4 @@
+# ignore
+
+data/FimaNfipClaims.parquet
+.ipynb_checkpoints
