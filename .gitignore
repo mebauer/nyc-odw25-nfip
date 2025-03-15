@@ -2,3 +2,4 @@
 
 data/FimaNfipClaims.parquet
 .ipynb_checkpoints
+.DS_Store
