@@ -48,8 +48,20 @@ Who should attend? This session is designed for individuals with beginner-level 
 - [Anaconda](https://www.anaconda.com/): A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.  
 - [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
     - [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+    
+# 5. Further Reading
 
-# 5. Additional Resources
+- Dixon, Lloyd, Noreen Clancy, Benjamin M. Miller, Sue Hoegberg, Michael M. Lewis, Bruce Bender, Samara Ebinger, Mel Hodges, Gayle M. Syck, Caroline Nagy, and Scott R. Choquette. 2017. *The Cost and Affordability of Flood Insurance in New York City: Economic Impacts of Rising Premiums and Policy Options for One- to Four-Family Homes*. Santa Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_reports/RR1776.html. Also available in print form.
+
+- Dixon, Lloyd, Noreen Clancy, Benjamin M. Miller, Sue Hoegberg, Michael M. Lewis, Bruce Bender, Samara Ebinger, Mel Hodges, Gayle M. Syck, Caroline Nagy, and Scott R. Choquette. 2017. *How Affordable Is Flood Insurance in New York City and What Can Be Done to Address Affordability Issues?* Santa Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_briefs/RB9957.html.
+
+- HR&A Advisors, Enterprise Community Partners, Inc., BJH Advisors LLC, Arup, and Willis Group. 2016. *Multifamily Flood Insurance Affordability Study*. HR&A Advisors. https://www.nyc.gov/html/planyc/downloads/pdf/publications/HR-A-Multifamily-Flood-Insurance-Affordability-Study-2016.pdf.
+
+- Dixon, Lloyd, Noreen Clancy, Bruce Bender, Aaron Kofner, David Manheim, and Laura Zakaras. 2013. *Flood Insurance in New York City Following Hurricane Sandy*. Santa Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_reports/RR328.html. Also available in print form.
+
+- Dixon, Lloyd, Noreen Clancy, Bruce Bender, Aaron Kofner, David Manheim, and Laura Zakaras. 2013. *The Rising Cost of Flood Insurance in New York City*. Santa Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_briefs/RB9745.html.
+
+# 6. Additional Resources
 
 - [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema): The public’s resource for FEMA program data. Promoting a culture of Open Government and increasing transparency, participation, and collaboration among the Whole Community in support of FEMA's mission to help people before, during, and after disasters.  
 - [NYC Open Data](https://opendata.cityofnewyork.us/): Open Data is free public data published by New York City agencies and other partners.  
