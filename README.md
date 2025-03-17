@@ -51,6 +51,19 @@ Who should attend? This session is designed for individuals with beginner-level 
     
 # 5. Further Reading
 
+## Useful Links
+
+### New York City Gov
+- FloodHelpNYC: https://floodhelpny.org/
+
+### FEMA
+- Flood Insurance: https://www.fema.gov/flood-insurance
+- FloodSmart: https://www.floodsmart.gov/
+
+## Research Papers and Academic Articles
+
+- Horn, Diane P., and Baird Webel. 2024. *Introduction to the National Flood Insurance Program (NFIP)*. CRS Report. Library of Congress. https://www.congress.gov/crs-product/R44593.
+
 - Dixon, Lloyd, Noreen Clancy, Benjamin M. Miller, Sue Hoegberg, Michael M. Lewis, Bruce Bender, Samara Ebinger, Mel Hodges, Gayle M. Syck, Caroline Nagy, and Scott R. Choquette. 2017. *The Cost and Affordability of Flood Insurance in New York City: Economic Impacts of Rising Premiums and Policy Options for One- to Four-Family Homes*. Santa Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_reports/RR1776.html. Also available in print form.
 
 - Dixon, Lloyd, Noreen Clancy, Benjamin M. Miller, Sue Hoegberg, Michael M. Lewis, Bruce Bender, Samara Ebinger, Mel Hodges, Gayle M. Syck, Caroline Nagy, and Scott R. Choquette. 2017. *How Affordable Is Flood Insurance in New York City and What Can Be Done to Address Affordability Issues?* Santa Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_briefs/RB9957.html.
