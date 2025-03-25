@@ -1,5 +1,7 @@
 # ignore
 
-data/FimaNfipClaims.parquet
+data/*.json
 .ipynb_checkpoints
 .DS_Store
+__pycache__/
+*.pyc
