@@ -47,7 +47,7 @@ These datasets are *redacted* for privacy protection:
 
 >Q: How are you protecting policyholders’ privacy?
 >
->A: Personal identifiable information (PII) is redacted and data is anonymized to the census tract, reported zip code, and to one >decimal point (.1) digit of latitude and longitude. If mapped, flood insurance policies and claims may appear to be clustered at >a particular location due to this anonymization.
+>A: Personal identifiable information (PII) is redacted and data is anonymized to the census tract, reported zip code, and to one decimal point (.1) digit of latitude and longitude. If mapped, flood insurance policies and claims may appear to be clustered at a particular location due to this anonymization.
 
 Source: [Frequently Asked Questions about NFIP Policies and Claims Data](https://nfipservices.floodsmart.gov/frequently-asked-questions-about-nfip-policies-and-claims-data)
 
@@ -55,7 +55,7 @@ Before proceeding with your analysis, be sure to review the Terms and Conditions
 
 From the data dictionary:
 
->Approximate latitude/longtitude of the insured building (to 1 decimal place). This represents the approximate location of the >insured property. The precision has been lessened to ensure individual privacy. This may result in a point location that exists >in an incorrect county or state. Use the state and county fields for record aggregation for these dimensions
+>Approximate latitude/longtitude of the insured building (to 1 decimal place). This represents the approximate location of the insured property. The precision has been lessened to ensure individual privacy. This may result in a point location that exists in an incorrect county or state. Use the state and county fields for record aggregation for these dimensions
 
 ++++++++++++++++++++
 
