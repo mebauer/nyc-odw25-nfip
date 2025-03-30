@@ -34,6 +34,36 @@ Who should attend? This session is designed for individuals with beginner-level 
 - Learning about urban flood risk and data-driven risk analysis
 - Basic Python or SQL programming and working with geospatial data
 
+
+[](figures/claims-paid-amount.png)
+
+
+[](figures/claims-paid-amount-nosandy.png)
+
+
+[](figures/average-paid-amount.png)
+
+
+[](figures/figures/average-paid-amount-nosandy.png)
+
+
+[](figures/claims-policies.png)
+
+
+[](figures/claims-policies-ratio.png)
+
+
+[](figures/claims-month.png)
+
+
+[](figures/claims-paid-month.png)
+
+
+[](figures/claims-311complaints.png)
+
+
+[](figures/claims-311complaints-nosandy.png)
+
 # 2. Notebooks
 
 
