@@ -38,13 +38,13 @@ Who should attend? This session is designed for individuals with beginner-level 
 - Basic Python or SQL programming and working with geospatial data
 
 
-[claims-paid-amount](figures/claims-paid-amount.png)
+![claims-paid-amount](figures/claims-paid-amount.png)
 
 
-[claims-policies](figures/claims-policies.png)
+![claims-policies](figures/claims-policies.png)
 
 
-[claims-policies-ratio](figures/claims-policies-ratio.png)
+![claims-policies-ratio](figures/claims-policies-ratio.png)
 
 # 2. Scripts and Notebooks
 
@@ -68,6 +68,7 @@ I've programmtically extracted the NFIP Claims [data dictionary](https://github.
 
 # 4. Open Source Applications Used in Project 
 
+- [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema): The public’s resource for FEMA program data. Promoting a culture of Open Government and increasing transparency, participation, and collaboration among the Whole Community in support of FEMA's mission to help people before, during, and after disasters. 
 - [Anaconda](https://www.anaconda.com/): A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.  
 - [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
     - [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
@@ -107,22 +108,22 @@ I've programmtically extracted the NFIP Claims [data dictionary](https://github.
 Feel free to reach out for further discussions.
 
 # 8. Appendix
-[claims-paid-amount-nosandy](figures/claims-paid-amount-nosandy.png)
+![claims-paid-amount-nosandy](figures/claims-paid-amount-nosandy.png)
 
 
-[average-paid-amount](figures/average-paid-amount.png)
+![average-paid-amount](figures/average-paid-amount.png)
 
 
-[average-paid-amount-nosandy](figures/figures/average-paid-amount-nosandy.png)
+![average-paid-amount-nosandy](figures/figures/average-paid-amount-nosandy.png)
 
 
-[claims-month](figures/claims-month.png)
+![claims-month](figures/claims-month.png)
 
 
-[claims-paid-month](figures/claims-paid-month.png)
+![claims-paid-month](figures/claims-paid-month.png)
 
 
-[claims-311complaints](figures/claims-311complaints.png)
+![claims-311complaints](figures/claims-311complaints.png)
 
 
-[claims-311complaints-nosandy](figures/claims-311complaints-nosandy.png)
+![claims-311complaints-nosandy](figures/claims-311complaints-nosandy.png)
