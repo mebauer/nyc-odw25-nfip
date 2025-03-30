@@ -10,7 +10,7 @@ Table of Contents
 =================
 
    * [1. Introduction](#1-Introduction)
-   * [2. Notebooks](#2-Notebooks)
+   * [2. Scripts and Notebooks](#2-Scripts-and-Notebooks)
    * [3. Data](#3-Data)
    * [4. Open Source Applications Used in Project](#4-Open-Source-Applications-Used-in-Project)
    * [5. Additional Resources](#5-Additional-Resources)
@@ -64,7 +64,16 @@ Who should attend? This session is designed for individuals with beginner-level 
 
 [](figures/claims-311complaints-nosandy.png)
 
-# 2. Notebooks
+# 2. Scripts and Notebooks
+
+I utilize the OpenFEMA API to programmatically export the Claims and Policies datasets for New York City. This process can be examined in the [nfip_download.py](https://github.com/mebauer/nyc-odw25-nfip/blob/main/nfip_download.py) script. The script takes two arguments: 1) the dataset type (either claims or policies) and 2) a County FIPS code. You can see this in practice in the [download-nfip-data.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-nfip-data.ipynb) notebook.
+
+Feel free to explore and use these resources! A special thank you to OpenFEMA for creating such an excellent API and a nice experience.
+
+### Notebooks
+- [download-nfip-data.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-nfip-data.ipynb): How to download NFIP claims and policies datasets using the OpenFEMA API.
+- [download-311-flooding.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-311-flooding.ipynb): How to download NYCC's 311 dataset filtered for Street Flooding Complaints using the Socrata API and sodapy (the Python client).
+- [figures.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/figures.ipynb): Figures for the analysis.
 
 
 # 3. Data 
@@ -72,6 +81,8 @@ Who should attend? This session is designed for individuals with beginner-level 
 | Dataset | Description |
 | :-------- | :---------- |
 | [OpenFEMA Dataset: FIMA NFIP Redacted Claims - v2](https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2) | Congress passed the National Flood Insurance Act (NFIA), 42 U.S.C. 4001 in 1968, creating the National Flood Insurance Program (NFIP) in order to reduce future flood losses through flood hazard identification, floodplain management, and providing insurance protection. This dataset provides details on NFIP claims transactions. It is derived from the NFIP system of record, staged in the NFIP reporting platform and redacted to protect policy holder personally identifiable information. |
+
+I've programmtically extracted the NFIP Claims [data dictionary](https://github.com/mebauer/nyc-odw25-nfip/blob/main/data-dictionary.csv). You can examine this workflow in the [download-nfip-data.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-nfip-data.ipynb) notebook.
 
 # 4. Open Source Applications Used in Project 
 
