@@ -37,6 +37,7 @@ Who should attend? This session is designed for individuals with beginner-level 
 - Learning about urban flood risk and data-driven risk analysis
 - Basic Python or SQL programming and working with geospatial data
 
+++++++++++++++++++++
 
 **Note**: This analysis uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
@@ -79,6 +80,9 @@ I've programmtically extracted the NFIP Claims [data dictionary](https://github.
 # 4. Open Source Applications Used in Project 
 
 - [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema): The public’s resource for FEMA program data. Promoting a culture of Open Government and increasing transparency, participation, and collaboration among the Whole Community in support of FEMA's mission to help people before, during, and after disasters. 
+- [Python](https://www.python.org/): Python is a programming language that lets you work quickly
+and integrate systems more effectively. 
+- [DuckDB](https://duckdb.org/): DuckDB is a high-performance analytical database system. It is designed to be fast, reliable, portable, and easy to use. DuckDB provides a rich SQL dialect, with support far beyond basic SQL. 
 - [Anaconda](https://www.anaconda.com/): A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.  
 - [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
     - [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
@@ -124,7 +128,7 @@ Feel free to reach out for further discussions.
 ![average-paid-amount](figures/average-paid-amount.png)
 
 
-![average-paid-amount-nosandy](figures/figures/average-paid-amount-nosandy.png)
+![average-paid-amount-nosandy](figures/average-paid-amount-nosandy.png)
 
 
 ![claims-month](figures/claims-month.png)
