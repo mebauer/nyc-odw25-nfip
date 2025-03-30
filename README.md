@@ -51,13 +51,11 @@ These datasets are *redacted* for privacy protection:
 
 Source: [Frequently Asked Questions about NFIP Policies and Claims Data](https://nfipservices.floodsmart.gov/frequently-asked-questions-about-nfip-policies-and-claims-data)
 
-Before proceeding with your analysis, be sure to review the Terms and Conditions, the dataset landing page, and the FAQs linked above. Please note that this dataset is not suitable for mapping based on latitude and longitude coordinates alone.
+Before proceeding with your analysis, be sure to review the Terms and Conditions, the dataset landing page, and the FAQs linked above. Again, please note that latitude/longtitude fields represent the approximate coordinates of the insured building (to 1 decimal place). This represents the approximate location of the insured property.
 
 From the data dictionary:
 
 >Approximate latitude/longtitude of the insured building (to 1 decimal place). This represents the approximate location of the >insured property. The precision has been lessened to ensure individual privacy. This may result in a point location that exists >in an incorrect county or state. Use the state and county fields for record aggregation for these dimensions
-
-Always read the official dataset documentation. This is non-negotiable. - Mark B.
 
 ++++++++++++++++++++
 
