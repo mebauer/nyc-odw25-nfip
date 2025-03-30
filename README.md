@@ -13,7 +13,10 @@ Table of Contents
    * [2. Scripts and Notebooks](#2-Scripts-and-Notebooks)
    * [3. Data](#3-Data)
    * [4. Open Source Applications Used in Project](#4-Open-Source-Applications-Used-in-Project)
-   * [5. Additional Resources](#5-Additional-Resources)
+   * [5. Further Reading](#5-Further-Reading)
+   * [6. Additional Resources](#6-Additional-Resources)
+   * [7. Say Hello!](#7-Say-Hello)
+   * [8. Appendix](#8-Appendix)
 
 # 1. Introduction
 
@@ -35,34 +38,13 @@ Who should attend? This session is designed for individuals with beginner-level 
 - Basic Python or SQL programming and working with geospatial data
 
 
-[](figures/claims-paid-amount.png)
+[claims-paid-amount](figures/claims-paid-amount.png)
 
 
-[](figures/claims-paid-amount-nosandy.png)
+[claims-policies](figures/claims-policies.png)
 
 
-[](figures/average-paid-amount.png)
-
-
-[](figures/figures/average-paid-amount-nosandy.png)
-
-
-[](figures/claims-policies.png)
-
-
-[](figures/claims-policies-ratio.png)
-
-
-[](figures/claims-month.png)
-
-
-[](figures/claims-paid-month.png)
-
-
-[](figures/claims-311complaints.png)
-
-
-[](figures/claims-311complaints-nosandy.png)
+[claims-policies-ratio](figures/claims-policies-ratio.png)
 
 # 2. Scripts and Notebooks
 
@@ -121,5 +103,26 @@ I've programmtically extracted the NFIP Claims [data dictionary](https://github.
 - [NYC Open Data](https://opendata.cityofnewyork.us/): Open Data is free public data published by New York City agencies and other partners.  
 
 
-# Say Hello! 
+# 7. Say Hello! 
 Feel free to reach out for further discussions.
+
+# 8. Appendix
+[claims-paid-amount-nosandy](figures/claims-paid-amount-nosandy.png)
+
+
+[average-paid-amount](figures/average-paid-amount.png)
+
+
+[average-paid-amount-nosandy](figures/figures/average-paid-amount-nosandy.png)
+
+
+[claims-month](figures/claims-month.png)
+
+
+[claims-paid-month](figures/claims-paid-month.png)
+
+
+[claims-311complaints](figures/claims-311complaints.png)
+
+
+[claims-311complaints-nosandy](figures/claims-311complaints-nosandy.png)
