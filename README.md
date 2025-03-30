@@ -38,6 +38,14 @@ Who should attend? This session is designed for individuals with beginner-level 
 - Basic Python or SQL programming and working with geospatial data
 
 
+**Note**: This analysis uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
+
+Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/openfema/terms-conditions).
+
+All figures and tables are reported in nominal dollars, reflecting the value of claims in the year they were filed. Consequently, comparisons across different years may not account for changes in the purchasing power of money over time.
+
+++++++++++++++++++++
+
 ![claims-paid-amount](figures/claims-paid-amount.png)
 
 
@@ -54,17 +62,19 @@ Feel free to explore and use these resources! A special thank you to OpenFEMA fo
 
 ### Notebooks
 - [download-nfip-data.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-nfip-data.ipynb): How to download NFIP claims and policies datasets using the OpenFEMA API.
-- [download-311-flooding.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-311-flooding.ipynb): How to download NYCC's 311 dataset filtered for Street Flooding Complaints using the Socrata API and sodapy (the Python client).
+- [download-311-flooding.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-311-flooding.ipynb): How to download NYC's 311 dataset filtered for Street Flooding Complaints using the Socrata API and sodapy (the Python client).
 - [figures.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/figures.ipynb): Figures for the analysis.
 
 
 # 3. Data 
 
+I've programmtically extracted the NFIP Claims [data dictionary](https://github.com/mebauer/nyc-odw25-nfip/blob/main/data-dictionary.csv). You can examine this workflow in the [download-nfip-data.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-nfip-data.ipynb) notebook.
+
+
 | Dataset | Description |
 | :-------- | :---------- |
 | [OpenFEMA Dataset: FIMA NFIP Redacted Claims - v2](https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2) | Congress passed the National Flood Insurance Act (NFIA), 42 U.S.C. 4001 in 1968, creating the National Flood Insurance Program (NFIP) in order to reduce future flood losses through flood hazard identification, floodplain management, and providing insurance protection. This dataset provides details on NFIP claims transactions. It is derived from the NFIP system of record, staged in the NFIP reporting platform and redacted to protect policy holder personally identifiable information. |
-
-I've programmtically extracted the NFIP Claims [data dictionary](https://github.com/mebauer/nyc-odw25-nfip/blob/main/data-dictionary.csv). You can examine this workflow in the [download-nfip-data.ipynb](https://github.com/mebauer/nyc-odw25-nfip/blob/main/download-nfip-data.ipynb) notebook.
+| [OpenFEMA Dataset: FIMA NFIP Redacted Policies - v2](https://www.fema.gov/openfema-data-page/fima-nfip-redacted-policies-v2) | Congress passed the National Flood Insurance Act (NFIA), 42 U.S.C. 4001 in 1968, creating the National Flood Insurance Program (NFIP) in order to reduce future flood losses through flood hazard identification, floodplain management, and providing insurance protection. This dataset provides details on NFIP policy transactions. It is derived from the NFIP system of record, staged in the NFIP reporting platform and redacted to protect policy holder personally identifiable information. |
 
 # 4. Open Source Applications Used in Project 
 
