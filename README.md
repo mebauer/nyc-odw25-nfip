@@ -43,8 +43,6 @@ Who should attend? This session is designed for individuals with beginner-level 
 
 Read more about OpenFEMA's [Terms and Conditions](https://www.fema.gov/about/openfema/terms-conditions).
 
-All figures and tables are reported in nominal dollars, reflecting the value of claims in the year they were filed. Consequently, comparisons across different years may not account for changes in the purchasing power of money over time.
-
 ++++++++++++++++++++
 
 ![claims-paid-amount](figures/claims-paid-amount.png)
